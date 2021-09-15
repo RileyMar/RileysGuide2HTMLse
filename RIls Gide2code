@@ -1,0 +1,32 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+  </head>
+  <body><body style="background-color:black;">
+    
+    <marquee><h1><p style="color:white">Rileys Guide To HTML Special Effects!</h1></marquee>
+    
+    <p><p style="color:white">If you want to make a HTML project, here are some commands that will help fancy it up. Fancy features include text color changes, background color changes, and more! Only use this site if you have previous HTML experience. If you want to learn how to use basic HTML, refer to Rileys Guide To Basic HTML</p>
+    <hr>
+    <h2><p style="color:white">Background color</h2>
+    
+    <p><p style="color:white">Background color is an essential element to get the mood of your website across. The command is &lt;body style="background-color:black;"> and replacing the word black with another color makes it a different color.</p>
+    
+    <h2><p style="color:white">Text Color</h2>
+    
+    <p><p style="color:white"> In order to change text color, all you need to do is enter in this simple command:&lt;p style="color:white"> before the text that needs coloring, and only one is required. In order to get a different color than white, you just need to replace the word white with the color you want. (fun fact:tomato is a color)</p>
+    
+    <h2><p style="color:white">Moving Text</h2>
+    
+    <p><p style="color:white">Now, I know youve all been wondering how I made my moving title. Here it is! The command is like the paragraph command, but instead of &lt;/p> and &lt;p>, it is &lt;marquee> and &lt;/marquee>. All of these effects are compatible with eachother as well.</p>
+    
+    <h2><p style="color:white">Divider Line</h2>
+    
+    <p><p style="color:white"> In order to make a divider line like the one at the top of the pace, the  command is &lt;hr>. The color of the line is dependent on the surrounding text color. Only one of these is required to make the line, so &lt;/hr> is not a valid command.</p>
+    
+    <hr>
+    
+    <marquee><h1><p style="color:white"> Thank You So Much For Visiting This Site! Have A Nice Day!<h1></marquee>
+ </body>
+    
+</html>
